@@ -46,8 +46,10 @@ Built for regulators, policymakers, and financial researchers, it bridges the ga
 
 ---
 
-Add your GEMINI_API_KEY to .env.local
+**Add your GEMINI_API_KEY to .env.local**
 
 ---
 
+**run**
+   ```bash
    npm run dev 
